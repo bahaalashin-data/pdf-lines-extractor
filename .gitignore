@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Local run data (don't accidentally commit real input/output files)
+input*.xlsx
+output*.csv
+*.log
+
+# but keep the sample file that ships with the repo
+!sample_input.xlsx
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
