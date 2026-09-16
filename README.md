@@ -9,7 +9,7 @@ hand: pulling text out of thousands of PDFs and getting it into a flat,
 analyzable format. It started as a Jupyter notebook script and I later
 wrapped it in a GUI so it's easier to run without touching code each time.
 
-![demo](docs/demo.gif)
+![demo](docs/screenshot.png)
 *(add your screen recording here - see "Adding the demo GIF" below)*
 
 ## Features
@@ -152,7 +152,7 @@ files don't belong in source control) - if you want to distribute one,
 attach it to a [GitHub Release](https://docs.github.com/en/repositories/releasing-projects-on-github)
 instead of committing it.
 
-## Adding the demo GIF
+## Adding the screenshot
 
 Record a short (10-15s) screen capture of the app running - opening a file,
 hitting Start, watching the progress bar move. [ScreenToGif](https://www.screentogif.com/)
