@@ -9,7 +9,7 @@ hand: pulling text out of thousands of PDFs and getting it into a flat,
 analyzable format. It started as a Jupyter notebook script and I later
 wrapped it in a GUI so it's easier to run without touching code each time.
 
-!(docs/screenshot.png)
+![screenshot](docs/screenshot.png)
 
 
 ## Features
