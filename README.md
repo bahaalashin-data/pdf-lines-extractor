@@ -153,12 +153,6 @@ files don't belong in source control) - if you want to distribute one,
 attach it to a [GitHub Release](https://docs.github.com/en/repositories/releasing-projects-on-github)
 instead of committing it.
 
-## Adding the screenshot
-
-Record a short (10-15s) screen capture of the app running - opening a file,
-hitting Start, watching the progress bar move. [ScreenToGif](https://www.screentogif.com/)
-works well on Windows. Save it as `docs/demo.gif` and it'll show up at the
-top of this README automatically.
 
 ## License
 
